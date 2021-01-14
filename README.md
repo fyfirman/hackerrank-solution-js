@@ -1,1 +1,1 @@
-# hackerrank-answer-nodejs
+# HackerRank Solution with JavaScript (NodeJS)
